@@ -4,7 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'GoogleSans-Regular';
+    src: url('./content/font/GoogleSans-Regular.otf') format('opentype');
+}
 body {
+    font-family: GoogleSans-Regular;
     margin: 0 auto;
     width: 95%;
     background: #f5f5f5;
