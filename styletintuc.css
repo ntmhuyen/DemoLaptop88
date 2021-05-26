@@ -454,6 +454,7 @@ p{
 #footer .box-footer {
    float: left;
    width: 269px;
+   padding-right:20px;
 }
 #footer .box-footer .h-title {
    text-transform: uppercase;
@@ -464,6 +465,7 @@ p{
    margin: 0;
    padding: 0;
    list-style: none;
+   padding-right:10px;
 }
 #footer .box-footer li {
    margin: 6px 0;
