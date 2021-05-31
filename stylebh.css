@@ -387,13 +387,13 @@ line{
 }
 .banner-fixed-left{
     position: fixed;
-    top: 100px;
+    top: 180px;
     left: 10px;
     z-index: 99;
 }
 .banner-fixed-right{
     position: fixed;
-    top: 100px;
+    top: 180px;
     right: 10px;
     z-index: 99;
 }
